@@ -1,0 +1,6 @@
+name = input("What is your name?")
+yers = int(input("What is your years?"))
+weigth = float(input("what is your weigth?"))
+print("Hello", name,".")
+print("years", yers)
+print("weigth", weigth)
