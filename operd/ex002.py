@@ -1,0 +1,5 @@
+name = input("Digite your name: ")
+print("Welcome nice to meet you, {}".format(name))
+print("welcome nice to meer you, {:20}!".format(name))
+print("welcome nice to meet you, {:>20}!".format(name))
+print("Welcome nice to meet you,{:=^20}!".format(name))  
